@@ -1,2 +1,2 @@
 # Routing-Mamba
-Code base for Routing Mamba
+Codebase for Routing Mamba
